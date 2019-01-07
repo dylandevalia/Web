@@ -1,0 +1,7 @@
+# Super secret untracked directory
+untracked/
+
+.DS_Store
+
+# Swap files
+*.swp
